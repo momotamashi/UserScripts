@@ -3,7 +3,7 @@
 // @namespace   Monkey Scripts
 // @match        *://chatgpt.com/*
 // @grant       none
-// @version     1.0.0
+// @version     1.1.0
 // @author      Alberto Sanchez
 // @description  Intercepts completion requests and injects {model: gpt-4o-mini}
 // ==/UserScript==
