@@ -1,5 +1,9 @@
 # UserScripts
 A collection of personal user scripts for modifying several behaviors in web
+
+
+
+
 # ChatGPT User Scripts
 
 This repository contains a collection of user scripts for enhancing the functionality of ChatGPT.
